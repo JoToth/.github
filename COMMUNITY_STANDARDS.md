@@ -1,4 +1,4 @@
-# JoToth Community Standards — v0.2 (draft)
+# JoToth Community Standards — v1.0-rc1
 
 ## Scoring rules
 
@@ -49,3 +49,11 @@ GitHub's actual Community Standards insights remain the authoritative product UI
 - Prioritize Critical / High / Medium / Low.
 - Audit this `.github` repository against sections A and B, and apply section C only if engineering artifacts are introduced.
 - Never mark a draft template as an active policy.
+
+## Current baseline (v0.3)
+
+The repository-root `SECURITY.md` and `SUPPORT.md` exist. They do not resolve the unverified private reporting route. An MIT license is included as a proposal subject to owner approval. See [publication checks](docs/DECISIONS_REQUIRED.md). Do not report 100% until these decisions and the live GitHub settings have been verified.
+
+## License policy
+
+The central `.github` repository uses BSD 3-Clause (`BSD-3-Clause`). A default license cannot be inherited by other repositories; audit the `LICENSE` file in each repository independently.

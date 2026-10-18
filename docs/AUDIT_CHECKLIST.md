@@ -37,3 +37,7 @@ Engineering: `__%` or N/A
 - [ ] High:
 - [ ] Medium:
 - [ ] Low:
+
+## v0.3 blockers
+
+See [Decisions required](DECISIONS_REQUIRED.md). Presence of a policy file does not establish an operational private reporting channel.
